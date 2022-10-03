@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+#LAYOUT_CONTENT {
+  min-height: 100vh;
+}
+
+#PAGE_CONTENT {
+  min-height: 100VH;
+}
+@media (prefers-color-scheme: dark) {}
